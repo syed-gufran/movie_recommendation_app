@@ -52,3 +52,4 @@ Enter a movie title like `"The Matrix"` to get a list of similar movies based on
 
 
 # movie_recommendation_app
+here's a live link for you to check out - https://movie-recommendation-gufran.streamlit.app
